@@ -29,3 +29,13 @@
                     }
                     return 0;
                }
+
+
+
+
+     OUTPUT:
+           Enter the String: TECHNICAL
+               
+               Input string is a valid identifier
+               Enter the String: 12ALSD
+               Input string is not a valid identifier
