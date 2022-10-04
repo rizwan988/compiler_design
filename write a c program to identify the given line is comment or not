@@ -28,3 +28,14 @@ int main(){
 		printf("This is not a comment line..");
 	}
 }
+
+
+
+
+OUTPUT:
+Enter Text : //MACHINE CODE//
+
+ It is a singleline Comment.
+  Enter Text : /*MACHINECODE*/
+
+ It is a multipleline Comment.
