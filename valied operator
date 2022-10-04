@@ -33,6 +33,27 @@ break;
 case'|': if(s[1]=='|') 
 printf("\nLogical OR"); 
 else 
+
+
+
+
+
+
+OUTPUT:
+Enter any operator:*
+
+Multiplication
+
+ Enter any operator:+
+
+ Addition
+  Enter any operator:-
+
+Substraction
+
+ Enter any operator:/
+
+Division
 printf("\nBitwise OR"); 
 break; 
  case'+': printf("\n Addition"); 
